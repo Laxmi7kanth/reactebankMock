@@ -1,0 +1,28 @@
+.bg-login-container {
+  background-color: #152850;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-container {
+  background-color: #e0eefe;
+  display: flex;
+  width: 70vw;
+}
+
+.img {
+  height: 500px;
+  width: 40vw;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: white;
+  height: 500px;
+  width: 30vw;
+}
